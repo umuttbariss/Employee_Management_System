@@ -42,7 +42,7 @@ A simple Java and Spring Boot based console application for managing employee re
 
 **Request:**
 ```http
-POST /api/employees/add
+http://localhost:8080/api/employees/add
 Content-Type: application/json
 ```
 
